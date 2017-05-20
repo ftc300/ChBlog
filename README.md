@@ -1,0 +1,2 @@
+# ChBlog
+Django practice
